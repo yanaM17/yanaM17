@@ -2,6 +2,10 @@
 
 ## Hello World 🌍
 
+I'm Yana Moshtyl, currently i'm a Frontend Developer in Brest, Belarus 🇧🇾, passionate about solving problems with technology and creating different solutions.💃🏼
+
+Stay free to know a little more about my life, follow me on my network where i share a little more about myself. I love to make new friends and learn new things. 🚀
+
 
 <!---
 yanaM17/yanaM17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
